@@ -31,7 +31,7 @@ const Navbar = () => {
                   <Link to="Contact" smooth={true} duration={100} className='nav-link active text-light text-center px-4'>Contact Me</Link>
                 </li>
                 <li className="nav-item">
-                  <a href={Resume} download="Resume.pdf" target="_blank" rel="noopener noreferrer" className='nav-link text-dark fw-bold rounded-pill px-3 mx-auto bg-light' style={{ width: "max-content" }}>Download ME</a>
+                  <a href={Resume} download="Resume.pdf" target="_blank" rel="noopener noreferrer" className='nav-link text-dark fw-bold rounded-pill px-3 mx-auto bg-light' style={{ width: "max-content" }}>Resume ↓</a>
                 </li>
               </ul>
             </div>
