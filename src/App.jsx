@@ -6,7 +6,7 @@ import Skills from './Components/Skills'
 import Contact from './Components/Contact'
 import Project from './Components/Project'
 import Education from './Components/Education'
-import Experience from './Components/Experience'
+import Experience from './Components/Experience.jsx'
 
 const App = () => {
   return (
